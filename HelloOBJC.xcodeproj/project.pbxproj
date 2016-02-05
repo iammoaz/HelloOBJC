@@ -13,6 +13,7 @@
 		41104E201C63F72700F3876C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41104E1E1C63F72700F3876C /* Main.storyboard */; };
 		41104E221C63F72700F3876C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41104E211C63F72700F3876C /* Assets.xcassets */; };
 		41104E251C63F72700F3876C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41104E231C63F72700F3876C /* LaunchScreen.storyboard */; };
+		41104E2E1C63F9A100F3876C /* ButtonDesign.m in Sources */ = {isa = PBXBuildFile; fileRef = 41104E2D1C63F9A100F3876C /* ButtonDesign.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		41104E211C63F72700F3876C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41104E241C63F72700F3876C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41104E261C63F72700F3876C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41104E2C1C63F9A100F3876C /* ButtonDesign.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonDesign.h; sourceTree = "<group>"; };
+		41104E2D1C63F9A100F3876C /* ButtonDesign.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonDesign.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				41104E231C63F72700F3876C /* LaunchScreen.storyboard */,
 				41104E261C63F72700F3876C /* Info.plist */,
 				41104E151C63F72700F3876C /* Supporting Files */,
+				41104E2C1C63F9A100F3876C /* ButtonDesign.h */,
+				41104E2D1C63F9A100F3876C /* ButtonDesign.m */,
 			);
 			path = HelloOBJC;
 			sourceTree = "<group>";
@@ -152,6 +157,7 @@
 				41104E1D1C63F72700F3876C /* ViewController.m in Sources */,
 				41104E1A1C63F72700F3876C /* AppDelegate.m in Sources */,
 				41104E171C63F72700F3876C /* main.m in Sources */,
+				41104E2E1C63F9A100F3876C /* ButtonDesign.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
