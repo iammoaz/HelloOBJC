@@ -21,6 +21,10 @@
     _askAQuestion.layer.cornerRadius = 6.0;
 }
 
+- (UIStatusBarStyle) preferredStatusBarStyle {
+    return UIStatusBarStyleLightContent;
+}
+
 - (void) checkAnswer:(NSString*) givenAnswer {
     
     NSString *title = [[NSString alloc] init];

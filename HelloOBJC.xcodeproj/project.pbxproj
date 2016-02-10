@@ -304,6 +304,7 @@
 				41104E2B1C63F72700F3876C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
